@@ -1,0 +1,5 @@
+C:\Users\nferguson\Desktop\refactor\App\App.Models\bin\Debug\App.Models.dll
+C:\Users\nferguson\Desktop\refactor\App\App.Models\bin\Debug\App.Models.pdb
+C:\Users\nferguson\Desktop\refactor\App\App.Models\obj\Debug\App.Models.csprojResolveAssemblyReference.cache
+C:\Users\nferguson\Desktop\refactor\App\App.Models\obj\Debug\App.Models.dll
+C:\Users\nferguson\Desktop\refactor\App\App.Models\obj\Debug\App.Models.pdb

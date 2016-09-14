@@ -1,0 +1,18 @@
+C:\Users\nferguson\Desktop\refactor\App\App.Services\obj\Debug\App.Services.csprojResolveAssemblyReference.cache
+C:\Users\nferguson\Desktop\refactor\App\App.Services\bin\Debug\App.Services.dll
+C:\Users\nferguson\Desktop\refactor\App\App.Services\bin\Debug\App.Services.pdb
+C:\Users\nferguson\Desktop\refactor\App\App.Services\bin\Debug\App.Data.dll
+C:\Users\nferguson\Desktop\refactor\App\App.Services\bin\Debug\App.Models.dll
+C:\Users\nferguson\Desktop\refactor\App\App.Services\bin\Debug\App.Data.pdb
+C:\Users\nferguson\Desktop\refactor\App\App.Services\bin\Debug\App.Models.pdb
+C:\Users\nferguson\Desktop\refactor\App\App.Services\obj\Debug\App.Services.dll
+C:\Users\nferguson\Desktop\refactor\App\App.Services\obj\Debug\App.Services.pdb
+C:\Users\nferguson\Desktop\refactor\Niall Ferguson Test - App\App.Services\bin\Debug\App.Services.dll
+C:\Users\nferguson\Desktop\refactor\Niall Ferguson Test - App\App.Services\bin\Debug\App.Services.pdb
+C:\Users\nferguson\Desktop\refactor\Niall Ferguson Test - App\App.Services\bin\Debug\App.Data.dll
+C:\Users\nferguson\Desktop\refactor\Niall Ferguson Test - App\App.Services\bin\Debug\App.Models.dll
+C:\Users\nferguson\Desktop\refactor\Niall Ferguson Test - App\App.Services\bin\Debug\App.Data.pdb
+C:\Users\nferguson\Desktop\refactor\Niall Ferguson Test - App\App.Services\bin\Debug\App.Models.pdb
+C:\Users\nferguson\Desktop\refactor\Niall Ferguson Test - App\App.Services\obj\Debug\App.Services.csprojResolveAssemblyReference.cache
+C:\Users\nferguson\Desktop\refactor\Niall Ferguson Test - App\App.Services\obj\Debug\App.Services.dll
+C:\Users\nferguson\Desktop\refactor\Niall Ferguson Test - App\App.Services\obj\Debug\App.Services.pdb

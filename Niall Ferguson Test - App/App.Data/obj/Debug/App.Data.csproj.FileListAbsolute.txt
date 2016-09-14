@@ -1,0 +1,7 @@
+C:\Users\nferguson\Desktop\refactor\App\App.Data\obj\Debug\App.Data.csprojResolveAssemblyReference.cache
+C:\Users\nferguson\Desktop\refactor\App\App.Data\bin\Debug\App.Data.dll
+C:\Users\nferguson\Desktop\refactor\App\App.Data\bin\Debug\App.Data.pdb
+C:\Users\nferguson\Desktop\refactor\App\App.Data\bin\Debug\App.Models.dll
+C:\Users\nferguson\Desktop\refactor\App\App.Data\bin\Debug\App.Models.pdb
+C:\Users\nferguson\Desktop\refactor\App\App.Data\obj\Debug\App.Data.dll
+C:\Users\nferguson\Desktop\refactor\App\App.Data\obj\Debug\App.Data.pdb
